@@ -1,2 +1,2 @@
-# muryp-frontmatter.nvim
-plugin for manage frontmatter markdown.
+# markdown plugins for neovim
+## install
